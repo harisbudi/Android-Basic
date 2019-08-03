@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">MotoGP Riders</string>
+
+    <array name="riderImages">
+        <item>@drawable/marquest</item>
+        <item>@drawable/rossi</item>
+        <item>@drawable/dovisiozo</item>
+        <item>@drawable/vinales</item>
+        <item>@drawable/bradl</item>
+        <item>@drawable/fabio</item>
+        <item>@drawable/iannone</item>
+        <item>@drawable/karel</item>
+        <item>@drawable/zarco</item>
+        <item>@drawable/franco</item>
+    </array>
+
+    <string-array name="riderDescription">
+        <item>Marc Marquez is the youngest ever six-time World Champion after taking his most recent – and fourth –
+            premier class crown in 2017. On the podium in his rookie 125 campaign in 2008, Marquez won that crown in
+            2010 before moving up to Moto2™ for 2011. After a tough start, the rider from Cervera went on an incredible
+            winning spree and had closed the gap to Championship leader Stefan Bradl to a handful of points, before a
+            crash in practice for the Malaysian GP saw Marquez forced to cede the fight and miss the two remaining races
+            of the year. Problems with his vision in the off season saw surgery then finally fix the problem, and
+            despite the shortened preparation for 2012 the Spaniard took the crown in stunning style by the Australian
+            GP. Replacing outgoing Casey Stoner in 2013 at the Repsol Honda Team, Marquez won his second ever MotoGP™
+            race and incredibly took the Championship in his rookie year. Then beginning 2014 with 10 wins in a row,
+            Marquez won that crown in Motegi to successfully defend the title. Before 2015 proved more difficult with
+            some mistakes and too many DNFs. Losing out to Jorge Lorenzo and Valentino Rossi, Marquez began 2016 with a
+            point to prove and took another incredible Championship title – redesigning his mentality and thinking about
+            the long game as he put consistency at the top of the agenda. The reigning Champion then fought down to the
+            wire against Andrea Dovizioso for the 2017 crown, with everything going down to the final round and Marquez
+            - despite an incredible moment into Turn 1 - keeping it on the podium to break another record and take
+            another title. He began 2018 as the reigning Champion once more and went on to make more history, taking
+            nine wins and wrapping up the title in Japan - becoming the youngest ever seven-time World Champion. 2019
+            sees the Spaniard aiming for eight.
+        </item>
+        <item>Valentino Rossi is a 9-time World Champion and 2018 will be his 23rd season in the World Championship. The
+            only rider in history to win 125, 250, 500 and MotoGP™ World Championships, Rossi dominated MotoGP™ with
+            first Honda and then Yamaha, taking the crown five times in a row until Nicky Hayden won the title in 2006.
+            Back on top in 2008 and 2009, the Italian was then beaten to the crown by teammate Jorge Lorenzo in 2010 and
+            left to join the factory Ducati Team. After three podiums over a tough two seasons, the rider from Tavullia
+            was back at Yamaha for 2013 and took his first win in three years in Assen. Runner up in the title in 2014,
+            Rossi then fought for his tenth crown in 2015 but was beaten in the final race by Lorenzo once again. 2016
+            has seen more pole positions, podiums and race wins and saw the Italian runner up once again; remaining with
+            Movistar Yamaha MotoGP for 2017 with new teammate Maverick Viñales. Another win, at the Dutch GP at the TT
+            Circuit Assen, was the jewel in another successful season – but struggles for the team with low grip and a
+            broken leg sustained in training just before Misano put a damper on the latter half of the year. Rossi
+            impressed to come back from his injury after only three weeks, however, and took another podium before the
+            end of the year, coming second in the awesome showdown at Phillip Island. For 2018, the Italian remained
+            with Yamaha and took another top three overall in the standings, but Rossi didn\'t stand on the top step in
+            2018. He\'ll be gunning to change that this season and pushing Yamaha Factory Racing to make some gains on
+            their rivals and close the gap.
+        </item>
+        <item>Taking his second MotoGP™ win in Sepang in 2016, 2004 125 World Champion Andrea Dovizioso has been in
+            MotoGP™ since an incredible rookie season in 2008, where he was top Independent Team rider and fifth
+            overall. His first victory came at Donington in 2009 when riding for Repsol Honda, before the Italian moved
+            to the Ducati Team following a stint with Monster Yamaha Tech 3. A key part of Ducati’s journey back to the
+            top, ‘DesmoDovi’ is one of the hardest to overtake on the brakes – and one of the cleanest competitors in
+            battle. After long seasons of hard work saw the bike more and more competitive and a consistent frontrunner,
+            2017 saw the Italian challenge for the World Championship down to the wire in Valencia after a stunning six
+            wins across the season. For 2018, he hit the ground running to win the season opener, endured some harder
+            races and then came back swinging - ending the year runner up once again. The goal for 2019? Go one better.
+        </item>
+        <item>2013 Moto3™ World Champion Maverick Viñales took the lightweight title in the CEV in 2010, as well as the
+            European 125 Championship the following year, and debuted in the 125 World Championship in 2011. He won four
+            races in his rookie year – third in the Championship and Rookie of the Year – and then took that title in
+            2013. As a Moto2™ rookie in 2014, Viñales was again Rookie of the Year and won four races – moving up to
+            MotoGP™ the year after with Team Suzuki Ecstar. Another Rookie of the Year trophy followed, before the
+            Spaniard then took Suzuki’s first race win since 2007 – and his maiden MotoGP™ win – at the British GP in
+            2016. For 2017, Viñales moved to Movistar Yamaha MotoGP to partner none other than Italian legend Valentino
+            Rossi. After dominating pre-season testing, the Yamaha rider won the first two races of the year and the
+            French GP, but the Movistar Yamaha team’s struggles with low grip then saw a more difficult latter half of
+            the season. Viñales came third overall, and the struggles continued into 2018. It was the Spaniard who
+            brought Yamaha\'s longest losing streak to an end, however, as he won in Australia - and in 2019 he\'ll be
+            aiming to take the Iwata marque back into the hunt for victory every weekend. He\'ll also be changing number
+            from 25 to 12.
+        </item>
+        <item>Son of former 250 rider Helmut Bradl, Stefan started out in the World Championship in 2006 in the 125
+            class, his breakthrough season coming in 2008 when he won two races and placed fourth overall. In 2010 he
+            stepped into the new Moto2™ category, ending the year ninth in the standings with an impressive victory at
+            Estoril. Bradl was confirmed as the 2011 Moto2™ World Champion at the final round of the season in Valencia,
+            beating Marc Marquez to the title. He joined the LCR Team aboard a Honda in 2012 for his first venture in
+            the MotoGP™ class, which saw him win the Rookie of the Year title after some strong performances. The next
+            year, Bradl finished on the podium from a career-first pole position at Laguna Seca, but his season ended
+            early after he broke an ankle in Malaysia. In 2014 he did not return to the podium and in 2015 he enjoyed a
+            new challenge with Forward Racing on the Forward Yamaha. Bradl experienced a difficult start to the season,
+            only managing to finish in the points twice in the first nine races, with a best-placed finish of eighth at
+            the Catalan GP. After nine races, Bradl was released from his contract at Forward Racing and took on a new
+            challenge by joining the Factory Aprilia Racing Team Gresini for the second half of the season. Bradl would
+            stay with Aprilia in 2016 as they brought in an all new prototype machine.
+        </item>
+        <item>Frenchman Fabio Quartararo got his start in motorcycle racing at the age of four, moving to Spain to
+            develop his career and proclaimed national champion in the 70, 80 and 125 categories. In 2013 he won the FIM
+            CEV Repsol Moto3™ championship and went on to win the same title again in 2014. The previous rule against
+            participating in the Moto3™ World Championship until the age of 16 had been repealed for the winner of the
+            then-national crown, so for 2015 - aged just 15 - Quartararo joined teammate Jorge Navarro in the Estrella
+            Galicia 0,0 Honda team. Impressing from the start, Quartararo was on the podium in just his second race. He
+            repeated that in Assen after claiming pole at both Jerez and Le Mans, but unfortunately a late season ankle
+            injury halted his progress. For 2016 he moved to the Leopard Racing team with KTM machinery, and then moved
+            up to Moto2™ in 2017 with Paginas Amarillas HP40. After some impressive showings of pace, Quartararo moved
+            to Speed Up for his sophomore season in the intermediate class and took his first win - and pole - at the
+            Circuit de Barcelona-Catalunya. He\'s now moving up to the premier class with Petronas Yamaha SRT, alongside
+            more experienced teammate Franco Morbidelli.
+        </item>
+        <item>Andrea Iannone debuted in the 125 World Championship in 2005, taking his first win of the class in 2008.
+            More victories prefaced the Italian’s move to Moto2™ for 2010, finishing an impressive third in his first
+            and second seasons. For 2012 the ‘Maniac’ was once again a frontrunner and battled Marc Marquez and Pol
+            Espargaró in the intermediate class, before moving up to MotoGP™ in 2013 with Pramac Racing Team. After
+            consistent results in his rookie year, Iannone joined the factory Ducati Team for two years, taking his
+            first win at the Austrian GP in 2016 and showcasing his aggressive on-track battles. The Italian moved to
+            Team Suzuki Ecstar for 2017 and, after a tough start, began to gain some traction towards the end of the
+            year – before hitting the ground running with the Hamamatsu factory in 2018 and taking some impressive
+            podiums. Now he moves to Aprilia Racing Team Gresini to begin a new chapter in 2019.
+        </item>
+        <item>Karel Abraham began racing the 125cc World Championship in 2005 before moving up the ranks into the
+            intermediate class. He scored two podiums during his rookie year of Moto2™ in 2010, a third placing at the
+            Twin Ring Motegi followed quite soon after by his first Grand Prix victory at the season-closer in Valencia.
+            Advancing into the MotoGP™ class the following season, Abraham has since ridden Ducati, ART and Honda
+            machinery, and proved a consistent points-scorer. After recovering from injury in 2015, Abraham returned to
+            MotoGP™ following a year in WorldSBK and spent a second season in the premier class with the Angel Nieto
+            Team in 2018. In 2019 he moves to Reale Avintia Racing.
+        </item>
+        <item>Former Red Bull Rookies Cup winner Johann Zarco made the jump into the 125 World Championship in 2009,
+            becoming runner-up to the title in 2011 with Aki Ajo’s team before transitioning to Moto2™. Over the next
+            three years, he achieved six podiums in the intermediate class before moving back to partner Ajo in his
+            Moto2™ team, winning the Championship in 2015 and becoming the first man to successfully defend the Moto2™
+            crown since its introduction in 2010 when he took the honours again in 2016. The first Frenchman to win more
+            than one World Championship, Zarco moved into MotoGP™ for 2017 and made an impressive debut with three
+            podiums and two pole positions in his rookie year. He stayed with Monster Yamaha Tech 3 in 2018 and took
+            more podiums, ending the season as top Independent Team rider. In 2019 he moves to Red Bull KTM Factory
+            Racing to become part of the Austrian factory\'s assault on the premier class.
+        </item>
+        <item>Born in Rome and now living in the motorsport-rich Tavullia, Franco Morbidelli took the Superstock 600
+            title in 2013 alongside World Championship wildcard outings in Moto2™ at Misano, Motegi and Valencia. He
+            went on to sign with Italtrans Racing Team for a full campaign in 2014 and continued with them in 2015,
+            making his podium debut in Indianapolis. Unfortunately a broken leg sustained during a motocross training
+            session saw him miss several races after Brno, with Morbidelli returning to finish the season but far from
+            fully fit. For 2016 he signed with the highly successful Estrella Galicia 0,0 Marc VDS team and took an
+            incredible run of podium finishes, ending the year just outside the top three in the title fight after an
+            impressive campaign. For 2017, Morbidelli stayed with EG0,0 Marc VDS and came out swinging to take the first
+            three wins of the year - in the lead in the standings during the entire season and taking the title at the
+            Malaysian GP...from STK600 to World Champion in four years. He moved into the premier class within the same
+            EG 0,0 Marc VDS team in 2018 and took the Rookie of the Year honours, and for 2019 moves team and machinery
+            as he lines up with Petronas Yamaha SRT.
+        </item>
+    </string-array>
+
+    <string-array name="riderName">
+        <item>Marc Marquest</item>
+        <item>Valentino Rossi</item>
+        <item>Andrea Dovisiozo</item>
+        <item>Maveric Vinales</item>
+        <item>Stefan Bradl</item>
+        <item>Fabio Quartararo</item>
+        <item>Andrea Iannone</item>
+        <item>Karel Abraham</item>
+        <item>Johann Zarco</item>
+        <item>Franco Morbidelli</item>
+    </string-array>
+
+    <string-array name="riderTeam">
+        <item>Repsol Honda Team</item>
+        <item>Monster Energy Yamaha</item>
+        <item>Ducati Team</item>
+        <item>Monster Energy Yamaha</item>
+        <item>Repsol Honda</item>
+        <item>Petronas Yamaha</item>
+        <item>Aprilia Racing</item>
+        <item>Reale Avintia Racing</item>
+        <item>Red Bull KTM</item>
+        <item>Petronas Yamaha</item>
+    </string-array>
+</resources>
