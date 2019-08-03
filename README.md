@@ -1,2 +1,4 @@
 # Android-Basic
-Android Basic - Dicoding
+Submission Belajar Membuat Aplikasi Android untuk Pemula by Dicoding
+
+
