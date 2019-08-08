@@ -1,7 +1,7 @@
 package com.nxs.motogpriders
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.nxs.motogpriders.adapter.CircleTransform
 import com.nxs.motogpriders.adapter.Profiles
 import com.squareup.picasso.Picasso
@@ -27,6 +27,5 @@ class DetailActivity : AppCompatActivity() {
             .load(item.image)
             .transform(CircleTransform())
             .into(profileImg)
-
     }
 }

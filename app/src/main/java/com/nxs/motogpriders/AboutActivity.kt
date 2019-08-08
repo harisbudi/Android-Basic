@@ -1,6 +1,6 @@
 package com.nxs.motogpriders
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.nxs.motogpriders.adapter.CircleTransform
 import com.squareup.picasso.Picasso
