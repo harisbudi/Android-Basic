@@ -1,18 +1,16 @@
 package com.nxs.motogpriders.adapter
 
 import android.content.Intent
-import androidx.recyclerview.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.recyclerview.widget.RecyclerView
 import com.nxs.motogpriders.DetailActivity
 import com.nxs.motogpriders.R
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.list_rider_profile.view.*
 
-class RidersAdapter(
-    private val list: MutableList<Profiles>
-) : RecyclerView.Adapter<RidersViewHolder>() {
+class RidersAdapter(private val list: MutableList<Profiles>) : RecyclerView.Adapter<RidersViewHolder>() {
 
     override fun onCreateViewHolder(p0: ViewGroup, p1: Int): RidersViewHolder {
         val holder = RidersViewHolder(
@@ -28,6 +26,7 @@ class RidersAdapter(
 
     override fun getItemCount(): Int = list.size
     override fun onBindViewHolder(holder: RidersViewHolder, position: Int) = holder.bind(list[position])
+
 }
 
 class RidersViewHolder(private val view: View) : RecyclerView.ViewHolder(view) {
